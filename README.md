@@ -10,7 +10,7 @@ Data + Creativity = ❤️
 
 - Python & SQL & HTML & CSS & JavaScript 
 - Data Visualization & Web Scraping
-- Building a personal project: [Edinburgh Ballet Guide](https://github.com/JianingZ-Janine/edinburgh-ballet-guide)
+- Building a personal project: [Edinburgh Ballet Guide](https://jianingz-janine.github.io/BalletCore/)
 
 ---
 
