@@ -23,7 +23,7 @@ Data + Creativity = ❤️
 
 ## 🌸 Let’s Connect!
 
-- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/jianingz-janine/)
+- 📬 Reach me on [LinkedIn](www.linkedin.com/in/jnz-uk)
 
 ---
 
