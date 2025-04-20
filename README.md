@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Jianing (Janine)!
 
-<!--
-**JianingZ-Janine/JianingZ-Janine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile — a little corner where tech, creativity, and curiosity meet.  
+I'm currently exploring the world of **data analysis**, **Python**, and **web development**.
+Data + Creativity = ❤️  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- Python & SQL & HTML & CSS & JavaScript 
+- Data Visualization & Web Scraping
+- Building a personal project: [Edinburgh Ballet Guide](https://github.com/JianingZ-Janine/edinburgh-ballet-guide)
+
+---
+
+## 🧠 Background
+
+- MSc in Linguistics | University of Edinburgh   
+- Based in Edinburgh, loving (and surviving) the Scottish weather 
+
+---
+
+## 🌸 Let’s Connect!
+
+- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/jianingz-janine/)
+
+---
+
+Thanks for visiting — and remember:  
+*You don’t need to have it all figured out to make beautiful progress.* 
