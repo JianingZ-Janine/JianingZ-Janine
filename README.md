@@ -1,15 +1,17 @@
 # 👋 Hi, I'm Jianing (Janine)!
 
 Welcome to my GitHub profile — a little corner where tech, creativity, and curiosity meet.  
-I'm currently exploring the world of **data analysis**, **Python**, and **web development**.
+I'm passionate about **data analysis**, **software development**, and **web technologies**, blending logic with creativity to build meaningful projects.
 Data + Creativity = ❤️  
 
 ---
 
 ## 🌱 Currently Learning
 
-- Python & SQL & HTML & CSS & JavaScript 
-- Data Visualization & Web Scraping
+- Studying **Software Development** at **CodeSpace, Edinburgh College**, with a focus on **software testing** and **web technologies**
+- Languages: **Python**, **PHP**, **JavaScript**, **SQL**, **HTML**, **CSS**
+- Tools & Methodologies: **Jira**, **SCRUM**, **Data Visualization**, **Web Scraping**
+- Actively working on **e-commerce websites** and **Python-based Machine Learning projects**, gradually updating my GitHub with these creations
 - Building a personal project: [Edinburgh Ballet Guide](https://jianingz-janine.github.io/BalletCore/)
 
 ---
