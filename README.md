@@ -10,7 +10,7 @@ Data + Creativity = ❤️
 
 - Studying **Software Development** at **CodeSpace, Edinburgh College**, with a focus on **software testing** and **web technologies**
 - Languages: **Python**, **PHP**, **JavaScript**, **SQL**, **HTML**, **CSS**
-- Tools & Methodologies: **Jira**, **SCRUM**, **Data Visualization**, **Web Scraping**
+- Tools & Methodologies: **Bootstrap**, **Cypress.io**, **Jira**, **Selenium**
 - Actively working on **e-commerce websites** and **Python-based Machine Learning projects**, gradually updating my GitHub with these creations
 - Building a personal project: [Edinburgh Ballet Guide](https://jianingz-janine.github.io/BalletCore/)
 
